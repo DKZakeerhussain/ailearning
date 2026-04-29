@@ -1,4 +1,4 @@
 def greet():
-    print("Starting Deep Learning Journey 🚀")
+    print("Starting Deep Learning Journey ")
 
 greet()
